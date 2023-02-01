@@ -8,32 +8,18 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-<<<<<<< HEAD
- 
- 1. Interchange and equation (or ).
- 2.   Divide the equation by (or ).
- 3.   Add times the equation to the equation (or ). Add times the equation to the equation (or ).
-  4.  Multiply the equation by (or ).
-  
-=======
 1. Interchange and equation (or ).
 2. Divide the equation by (or ).
 3. Add times the equation to the equation (or ). 
-4.Add times the equation to the equation (or ).
-5.Multiply the equation by (or ). 
->>>>>>> 0127971b8b5c6cb2085fb4b6dbbe000e73db4cb8
+4. Add times the equation to the equation (or ).
+5. Multiply the equation by (or ). 
 
 ## Program:
 ```python
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-<<<<<<< HEAD
-Developed by: Shanmugavel.RM
-RegisterNumber:22004339
-=======
 Developed by: Shanmugavel R M
 RegisterNumber: 22004339
->>>>>>> 0127971b8b5c6cb2085fb4b6dbbe000e73db4cb8
 */
 import sys
 n = int(input())
@@ -57,7 +43,6 @@ for i in range(n-2,-1,-1):
     X[i] = X[i]/a[i][i]
 for i in range(n):
     print('X%d = %0.2f' %(i,X[i]), end = ' ')
-<<<<<<< HEAD
 ```    
 
 ## Output:
