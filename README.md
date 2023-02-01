@@ -62,13 +62,6 @@ for i in range(n):
 
 ## Output:
 ![output](/gass.png)
-=======
-
-```
-
-## Output:
-![gaussian elimination](/lur%20(1).png)
->>>>>>> 0127971b8b5c6cb2085fb4b6dbbe000e73db4cb8
 
 
 ## Result:
